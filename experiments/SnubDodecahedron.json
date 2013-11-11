@@ -780,7 +780,7 @@
 	]
 ], 
 "mass" : 1, 
-"iterations" : 1000, 
+"iterations" : 200, 
 "stoppingCondition" : 4, 
 "gravity" : [
 	0, 
